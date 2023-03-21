@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elem name="SavedLayouts" count="s">
+	<elem name="Layout" count="0">
+		<attr name="name" type="s"  />
+		<elem name="Overlay">
+			<attr name="name" type="s"  />
+			<elem name="Properties" count="s">
+				<attr name="name" type="s"  />
+				<attr name="cx" type="i"  />
+				<attr name="cy" type="i"  />
+				<attr name="width" type="i"  />
+				<attr name="height" type="i"  />				
+				<attr name="style" type="i"  />
+				<attr name="minValue" type="d"  />
+				<attr name="maxValue" type="d"  />
+				<attr name="inputType" type="i"  />
+				<attr name="measurementType" type="i"  />
+				<attr name="componentType" type="i"  />
+				<attr name="componentId" type="i"  />
+				<attr name="nComponents" type="i"  />
+				<attr name="minArc" type="d"  />
+				<attr name="maxArc" type="d"  />
+				<attr name="opacity" type="i"  />
+				<attr name="foregroundColour" type="u"  />
+				<attr name="backgroundColour" type="u"  />
+				<attr name="isTransparent" type="b"  />
+				<attr name="label" type="s"  />
+			</elem>
+			<elem name="Windows" count="s">
+				<attr name="bName" type="b"  />
+				<attr name="bLabel" type="b"  />
+				<attr name="bDp" type="b"  />
+				<attr name="bMin" type="b"  />
+				<attr name="bMax" type="b"  />
+				<attr name="bStart" type="b"  />
+				<attr name="bEnd" type="b"  />
+				<attr name="bRanges" type="b"  />
+			</elem>
+			<elem name="Ranges" count="s">
+				<attr name="ranges" type="i"  />
+				<elem name="Range">
+					  <attr name="min" type="d"  />
+					  <attr name="max" type="d"  />
+					  <attr name="colour" type="u"  />
+					  <attr name="label" type="s"  />
+				</elem>
+			</elem>
+		</elem>
+	</elem>
+</elem>

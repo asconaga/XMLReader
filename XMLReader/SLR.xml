@@ -1,0 +1,36 @@
+<SavedLayouts version="1" >
+    <Layout name="Foca">
+        <Overlay name="Dial0">
+          <Properties style="0" minValue="0" maxValue="150" minArc="120" maxArc="420" opacity="100" isTransparent="0" label=""/>
+	          <Component inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0"/>
+          <Colour foregroundColour="16777215" backgroundColour="0" />
+          <Position cx="1269" cy="360" size="100" />
+          <Windows bName="1" bLabel="" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+          <Ranges ranges="0"/>
+        </Overlay>
+		<Overlay name="DialAFlight">
+          <Properties style="0" minValue="0" maxValue="150" minArc="120" maxArc="420" opacity="100" isTransparent="0" label=""/>
+          <Component inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0"/>
+          <Colour foregroundColour="16777215" backgroundColour="0" />
+          <Position cx="1269" cy="360" size="100"/>
+          <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="2">
+                <Range min="0" max="75" colour="65535" label="" />
+                <Range min="75" max="150" colour="4210688" label="" />
+            </Ranges>
+        </Overlay>
+    </Layout>	
+    <Layout name="Donnie">
+		<Overlay name="Dublin">
+          <Properties style="0" minValue="0" maxValue="150" minArc="120" maxArc="420" opacity="100" isTransparent="0" label=""/>
+          <Component inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0"/>
+          <Colour foregroundColour="16777215" backgroundColour="0" />
+          <Position cx="1269" cy="360" size="100"/>
+          <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="2">
+                <Range min="0" max="75" colour="65535" label="" />
+                <Range min="75" max="150" colour="4210688" label="" />
+            </Ranges>
+        </Overlay>
+    </Layout>	
+</SavedLayouts>

@@ -1,0 +1,9 @@
+﻿  <elem name="container" count="s">
+    <attr name="count" type="u" />
+    <elem name="color" count="0">
+      <attr name="min" type="d" />
+      <attr name="max" type="d" />
+      <attr name="color" type="u" />
+      <attr name="label" type="s" />
+	</elem>
+  </elem>

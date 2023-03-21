@@ -1,0 +1,134 @@
+<SavedLayouts>
+    <Layout name="TUG DIALS">
+        <Overlay name="POD ANGLE PS">
+            <Properties name="POD ANGLE PS" cx="-2869" cy="359" style="0" minValue="-360" maxValue="360" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="180" maxArc="540" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT|STARBOARD" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="POD RPM PS">
+            <Properties name="POD RPM PS" cx="-3866" cy="359" style="0" minValue="0" maxValue="400" inputType="151" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="POD ANGLE SB">
+            <Properties name="POD ANGLE SB" cx="-2378" cy="359" style="0" minValue="-360" maxValue="360" inputType="153" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="180" maxArc="540" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT|STARBOARD" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="POD RPM SB">
+            <Properties name="POD RPM SB" cx="-3350" cy="359" style="0" minValue="0" maxValue="400" inputType="151" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STARBOARD RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="SD TEMPEST">
+        <Overlay name="POD ANGLE PS">
+            <Properties name="POD ANGLE PS" cx="-1531" cy="254" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="-180" max="180" colour="255" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD ANGLE STERN">
+            <Properties name="POD ANGLE STERN" cx="-1116" cy="370" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="2" nComponents="3" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STERN ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="POD ANGLE SB">
+            <Properties name="POD ANGLE SB" cx="-710" cy="254" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STBD ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="360" colour="32768" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD RPM STERN">
+            <Properties name="POD RPM STERN" cx="-5553" cy="370" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="2" nComponents="3" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STERN RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="POD RPM PS">
+            <Properties name="POD RPM PS" cx="-5958" cy="254" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="350" colour="255" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD RPM SB">
+            <Properties name="POD RPM SB" cx="-5145" cy="254" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STARBOARD RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="350" colour="32768" label="" />
+            </Ranges>
+        </Overlay>
+    </Layout>
+    <Layout name="SD Other">
+        <Overlay name="POD ANGLE PS">
+            <Properties name="POD ANGLE PS" cx="-1530" cy="254" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="-180" max="180" colour="255" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD RPM SB">
+            <Properties name="POD RPM SB" cx="-5150" cy="254" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STARBOARD RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="350" colour="32768" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD ANGLE SB">
+            <Properties name="POD ANGLE SB" cx="-1100" cy="254" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STBD ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="360" colour="32768" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD RPM PS">
+            <Properties name="POD RPM PS" cx="-5580" cy="254" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="350" colour="255" label="" />
+            </Ranges>
+        </Overlay>
+    </Layout>
+    <Layout name="SD Tempest v2">
+        <Overlay name="POD ANGLE PS">
+            <Properties name="POD ANGLE PS" cx="-5200" cy="254" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="-180" max="180" colour="255" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD RPM SB">
+            <Properties name="POD RPM SB" cx="-1200" cy="254" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STARBOARD RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="350" colour="32768" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD ANGLE SB">
+            <Properties name="POD ANGLE SB" cx="-800" cy="254" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="1" nComponents="2" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STBD ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="360" colour="32768" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD RPM PS">
+            <Properties name="POD RPM PS" cx="-5600" cy="254" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="PORT RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="1">
+                <Range min="0" max="350" colour="255" label="" />
+            </Ranges>
+        </Overlay>
+        <Overlay name="POD ANGLE STERN">
+            <Properties name="POD ANGLE STERN" cx="-3000" cy="254" style="0" minValue="-180" maxValue="180" inputType="153" measurementType="7" componentType="9" componentId="2" nComponents="3" minArc="-180" maxArc="180" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STERN ANGLE" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="POD RPM STERN">
+            <Properties name="POD RPM STERN" cx="-3400" cy="254" style="0" minValue="0" maxValue="350" inputType="151" measurementType="7" componentType="9" componentId="2" nComponents="3" minArc="-145" maxArc="145" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="STERN RPM" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+</SavedLayouts>

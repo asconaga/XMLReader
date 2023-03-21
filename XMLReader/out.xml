@@ -1,0 +1,6 @@
+<container count="4">
+  <color min="0" max="50.3" color="65280" label="low"></color>
+  <color min="-50" max="7.5e4" color="65535" label="medium" />
+  <color min="1" max="110" color="8388863" label="high" />
+  <color min="110" max="150.2" color="255" label="warming" />
+</container>

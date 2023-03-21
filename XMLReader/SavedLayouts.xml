@@ -1,0 +1,125 @@
+<SavedLayouts>
+    <Layout name="Foca">
+        <Overlay name="Dial0">
+            <Properties name="Dial0" cx="1269" cy="360" style="0" minValue="0" maxValue="150" inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0" minArc="120" maxArc="420" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="BarV1">
+            <Properties name="BarV1" cx="1595" cy="590" style="1" minValue="0" maxValue="150" inputType="8" inputID="1" measurementType="7" componentType="0" componentId="-1" nComponents="0" opacity="100" width="120" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="0" bEnd="0" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Digital2">
+            <Properties name="Digital2" cx="1296" cy="720" style="3" minValue="0" maxValue="150" inputType="170" inputID="2" measurementType="7" componentType="3" componentId="0" nComponents="2" dp="0" opacity="100" width="400" height="96" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="francotiridor">
+        <Overlay name="Dial0">
+            <Properties name="Dial0" cx="1269" cy="360" style="0" minValue="0" maxValue="150" inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0" minArc="120" maxArc="420" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="BarV1">
+            <Properties name="BarV1" cx="1595" cy="590" style="1" minValue="0" maxValue="150" inputType="8" inputID="1" measurementType="7" componentType="0" componentId="-1" nComponents="0" opacity="100" width="120" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="0" bEnd="0" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Digital2">
+            <Properties name="Digital2" cx="1296" cy="720" style="3" minValue="0" maxValue="150" inputType="170" inputID="2" measurementType="7" componentType="3" componentId="0" nComponents="2" dp="0" opacity="100" width="400" height="96" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Digital3">
+            <Properties name="Digital3" cx="1245" cy="493" style="3" minValue="0" maxValue="150" inputType="170" inputID="2" measurementType="7" componentType="3" componentId="1" nComponents="2" dp="0" opacity="100" width="400" height="96" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="jack">
+        <Overlay name="Dial0">
+            <Properties name="Dial0" cx="1269" cy="360" style="0" minValue="0" maxValue="150" inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0" minArc="120" maxArc="420" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Dial5">
+            <Properties name="Dial5" cx="1223" cy="619" style="0" minValue="0" maxValue="150" inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0" minArc="120" maxArc="420" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Digital2">
+            <Properties name="Digital2" cx="1296" cy="720" style="3" minValue="0" maxValue="150" inputType="170" inputID="2" measurementType="7" componentType="3" componentId="0" nComponents="2" dp="0" opacity="100" width="400" height="96" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="BarV1">
+            <Properties name="BarV1" cx="1595" cy="590" style="1" minValue="0" maxValue="150" inputType="8" inputID="1" measurementType="7" componentType="0" componentId="-1" nComponents="0" opacity="100" width="120" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="0" bEnd="0" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="Jack">
+        <Overlay name="Dial0">
+            <Properties name="Dial0" cx="1185" cy="511" style="0" minValue="0" maxValue="360" inputType="4" inputID="0" measurementType="1" componentType="0" componentId="-1" nComponents="0" minArc="360" maxArc="0" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="Test1">
+        <Overlay name="Rubber">
+            <Properties name="Rubber" cx="1476" cy="485" style="0" minValue="-45" maxValue="45" inputType="170" inputID="2" measurementType="7" componentType="3" componentId="0" nComponents="2" minArc="120" maxArc="420" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="P|S" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="Cielo">
+        <Overlay name="Rubber">
+            <Properties name="Rubber" cx="1476" cy="485" style="0" minValue="-45" maxValue="45" inputType="170" measurementType="7" componentType="3" componentId="0" nComponents="2" minArc="120" maxArc="420" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="P|S" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="Dobbie">
+        <Overlay name="Dobbie">
+            <Properties name="Dobbie" cx="455" cy="410" style="0" minValue="-360" maxValue="360" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="180" maxArc="540" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="P|S" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="wonkie">
+        <Overlay name="BarV0">
+            <Properties name="BarV0" cx="889" cy="459" style="1" minValue="-360" maxValue="360" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" opacity="100" width="120" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="P|S" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="0" bEnd="0" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Digital2">
+            <Properties name="Digital2" cx="1344" cy="677" style="3" minValue="0" maxValue="150" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" dp="1" opacity="100" width="400" height="96" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Dial4">
+            <Properties name="Dial4" cx="1250" cy="355" style="0" minValue="0" maxValue="360" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" minArc="0" maxArc="360" opacity="100" width="400" height="400" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="0" bMin="1" bMax="1" bStart="1" bEnd="1" bRanges="1" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Text1">
+            <Properties name="Text1" cx="1336" cy="600" style="4" minValue="0" maxValue="150" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" dp="1" opacity="100" width="400" height="40" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+    <Layout name="round">
+        <Overlay name="Text0">
+            <Properties name="Text0" cx="1394" cy="457" style="4" minValue="0" maxValue="150" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" dp="0" opacity="100" width="400" height="40" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+        <Overlay name="Digital1">
+            <Properties name="Digital1" cx="1441" cy="616" style="3" minValue="0" maxValue="150" inputType="153" measurementType="7" componentType="9" componentId="0" nComponents="2" dp="0" opacity="100" width="400" height="96" foregroundColour="16777215" backgroundColour="0" isTransparent="0" label="" />
+            <Windows bName="1" bLabel="1" bDp="1" bMin="0" bMax="0" bStart="0" bEnd="0" bRanges="0" />
+            <Ranges ranges="0" />
+        </Overlay>
+    </Layout>
+</SavedLayouts>
